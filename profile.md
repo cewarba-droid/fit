@@ -3,7 +3,8 @@
 > Fill in the blanks. Fields marked **(required)** must be filled before a plan is written.
 
 ## Goal
-- Primary goal **(required)**: <!-- e.g. lose fat / build muscle / run 5 km / general fitness -->
+- Primary goal **(required)**: lose fat + build muscle + running fitness, with mobility/flexibility work. Running is a constant focus.
+- Priority when goals conflict **(required)**: 
 - Target + deadline: <!-- e.g. -8 kg by March 2027 -->
 - Why it matters:
 
