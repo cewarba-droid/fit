@@ -10,10 +10,10 @@
 - Why it matters:
 
 ## Current state
-- Age **(required)**:
-- Sex **(required)**:
-- Height **(required)**:
-- Weight **(required)**:
+- Age **(required)**: 28
+- Sex **(required)**: male
+- Height **(required)**: 176 cm
+- Weight **(required)**: 92.5 kg (2026-10-27)
 - Waist (at navel):
 - Current activity level **(required)**: <!-- sedentary / light / moderate / active -->
 - Training history: 4 years weightlifting. Running: loves it, inconsistent; wants to get serious about it.
