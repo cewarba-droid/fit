@@ -4,7 +4,8 @@
 
 ## Goal
 - Primary goal **(required)**: lose fat + build muscle + running fitness, with mobility/flexibility work. Running is a constant focus.
-- Priority when goals conflict **(required)**: 
+- Priority when goals conflict **(required)**: 1) fat loss (esp. belly) 2) running + cardio + flexibility 3) muscle — maintain, not build
+- Known weak points: glutes
 - Target + deadline: <!-- e.g. -8 kg by March 2027 -->
 - Why it matters:
 
@@ -15,7 +16,7 @@
 - Weight **(required)**:
 - Waist (at navel):
 - Current activity level **(required)**: <!-- sedentary / light / moderate / active -->
-- Training history: <!-- none / some / years; what kind -->
+- Training history: 4 years weightlifting. Running: loves it, inconsistent; wants to get serious about it.
 
 ## Constraints
 - Injuries / medical conditions **(required — write "none" if none)**:
