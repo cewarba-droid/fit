@@ -19,7 +19,7 @@
 - Training history: 4 years weightlifting. Running: loves it, inconsistent; wants to get serious about it.
 
 ## Constraints
-- Injuries / medical conditions **(required — write "none" if none)**: recurring back pain (comes and goes). Not yet assessed by a professional.
+- Injuries / medical conditions **(required — write "none" if none)**: recurring lower back pain, flares weekly to monthly with no clear trigger; sometimes radiates down the LEFT leg; lower-back tension after running. Cupping gives temporary relief. Not yet assessed by a professional. **Leg radiation = get assessed before heavy loading or running progression.**
 - Days per week available **(required)**:
 - Minutes per session **(required)**:
 - Equipment / location **(required)**: <!-- home, bodyweight only / dumbbells / full gym -->
