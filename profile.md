@@ -22,10 +22,10 @@
 - Injuries / medical conditions **(required — write "none" if none)**: recurring lower back pain, flares weekly to monthly with no clear trigger; sometimes radiates down the LEFT leg; lower-back tension after running. Cupping gives temporary relief. Not yet assessed by a professional (assessment not likely within the next month). Symptom-free as of 2026-10-30: no pain, numbness or weakness. **Leg radiation = get assessed before heavy loading or running progression.**
 - Days per week available **(required)**: 4
 - Minutes per session **(required)**: up to 120 stated; plan core sessions at ~75 min, extras optional
-- Equipment / location **(required)**: <!-- home, bodyweight only / dumbbells / full gym -->
+- Equipment / location **(required)**: gym with machines + cardio (equipment list pending — video didn't come through). Runs outdoors near home (walkway, not a purpose-built track) and on treadmill, either on any day.
 - Diet constraints: <!-- e.g. halal, vegetarian, allergies, fasting periods -->
 - Sleep (avg hours):
 
 ## Preferences
-- Enjoy:
+- Enjoy: running; bodyweight conditioning (push-ups, jumping jacks, jump squats, mountain climbers). Current sessions mix cardio + bodybuilding in ~120 min.
 - Hate / won't do:
