@@ -16,12 +16,12 @@
 - Weight **(required)**: 92.5 kg (2026-10-27)
 - Waist (at navel):
 - Current activity level **(required)**: <!-- sedentary / light / moderate / active -->
-- Training history: 4 years weightlifting. Running: loves it, inconsistent; wants to get serious about it.
+- Training history: 4 years weightlifting. 2-month break, back for the last ~1.5 months on a body-part ("bro") split + running 2x/week — inconsistent in both. Running: loves it, inconsistent; wants to get serious about it.
 
 ## Constraints
 - Injuries / medical conditions **(required — write "none" if none)**: recurring lower back pain, flares weekly to monthly with no clear trigger; sometimes radiates down the LEFT leg; lower-back tension after running. Cupping gives temporary relief. Not yet assessed by a professional (assessment not likely within the next month). Symptom-free as of 2026-10-30: no pain, numbness or weakness. **Leg radiation = get assessed before heavy loading or running progression.**
-- Days per week available **(required)**:
-- Minutes per session **(required)**:
+- Days per week available **(required)**: 4
+- Minutes per session **(required)**: up to 120 stated; plan core sessions at ~75 min, extras optional
 - Equipment / location **(required)**: <!-- home, bodyweight only / dumbbells / full gym -->
 - Diet constraints: <!-- e.g. halal, vegetarian, allergies, fasting periods -->
 - Sleep (avg hours):
