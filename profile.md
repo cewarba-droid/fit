@@ -5,7 +5,7 @@
 ## Goal
 - Primary goal **(required)**: lose fat + build muscle + running fitness, with mobility/flexibility work. Running is a constant focus.
 - Priority when goals conflict **(required)**: 1) fat loss (esp. belly) 2) running + cardio + flexibility 3) muscle — maintain, not build
-- Known weak points: glutes
+- Known weak points: glutes, core (weakest), forearms/grip
 - Target + deadline: <!-- e.g. -8 kg by March 2027 -->
 - Why it matters:
 
@@ -15,7 +15,7 @@
 - Height **(required)**: 176 cm
 - Weight **(required)**: 92.5 kg (2026-10-27)
 - Waist (at navel):
-- Current activity level **(required)**: <!-- sedentary / light / moderate / active -->
+- Current activity level **(required)**: active (inferred: 4 sessions x ~120 min/week; daily job activity unknown)
 - Training history: 4 years weightlifting. 2-month break, back for the last ~1.5 months on a body-part ("bro") split + running 2x/week — inconsistent in both. Running: loves it, inconsistent; wants to get serious about it.
 
 ## Constraints
@@ -23,7 +23,7 @@
 - Days per week available **(required)**: 4
 - Minutes per session **(required)**: up to 120 stated; plan core sessions at ~75 min, extras optional
 - Equipment / location **(required)**: gym with machines + cardio (equipment list pending — video didn't come through). Runs outdoors near home (walkway, not a purpose-built track) and on treadmill, either on any day.
-- Diet constraints: <!-- e.g. halal, vegetarian, allergies, fasting periods -->
+- Diet constraints: halal; no allergies; no current diet; not tracking calories. Occasional constipation.
 - Sleep (avg hours):
 
 ## Preferences
