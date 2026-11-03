@@ -45,7 +45,7 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 | Seated dumbbell shoulder press (back supported) | 3 x 8–12 | |
 | Cable curl + triceps pushdown | 2 x 10–15 each | Superset |
 | Pallof press | 3 x 10 / side | Core: resist the twist |
-| Dead hang | 3 x as long as possible | Grip |
+| Dead hang | 3 x as long as possible | Grip. Time each hang. Under 20 s: do 10–15 s hangs until you reach 45–60 s total. No straps |
 
 ### Lower B (glute focus)
 | Exercise | Sets x Reps | Notes |
@@ -129,3 +129,4 @@ Fat loss comes mostly from the diet. Training mainly decides whether what you lo
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-03: Dead hang progression added. Grip was the limiting factor in the first session.
