@@ -39,7 +39,7 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 ### Upper A
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Lat pulldown | 3 x 8–12 | |
+| Lat pulldown | 3 x 8–12 | Thigh pad snug, lean back only ~10–15°, ribs down, no lower-back arch. If tight: half-kneeling single-arm cable pulldown |
 | Incline dumbbell press | 3 x 8–12 | |
 | Chest-supported row | 3 x 8–12 | Chest on the pad means no load on the lower back |
 | Seated dumbbell shoulder press (back supported) | 3 x 8–12 | |
@@ -129,4 +129,5 @@ Fat loss comes mostly from the diet. Training mainly decides whether what you lo
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-03: Lat pulldown: hold at 50 kg + form cues after lower-back tightness on that lift (no tightness on the run).
 - 2026-11-03: Dead hang progression added. Grip was the limiting factor in the first session.
