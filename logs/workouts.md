@@ -12,3 +12,4 @@
 | 2026-11-03 | Upper A | Pallof press | 3x10/side @ 20kg | — | |
 | 2026-11-03 | Upper A | Dead hang | 3x max | — | grip limits it; time not recorded |
 | 2026-11-03 | Upper A | Treadmill run | 20:15, 2.50 km, 7.4 km/h, 0% incline | — | ~8:06 min/km; no back tightness or pressure |
+| 2026-11-06 | — | skipped | — | — | reason not given |
