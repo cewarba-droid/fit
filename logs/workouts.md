@@ -12,6 +12,19 @@
 | 2026-11-03 | Upper A | Pallof press | 3x10/side @ 20kg | — | |
 | 2026-11-03 | Upper A | Dead hang | 3x max | — | grip limits it; time not recorded |
 | 2026-11-03 | Upper A | Treadmill run | 20:15, 2.50 km, 7.4 km/h, 0% incline | — | ~8:06 min/km; no back tightness or pressure |
-| 2026-11-04 | Lower A | full session | weights not reported | — | completed |
+| 2026-11-04 | Lower A | Leg press | 3x8–12 @ ~150–170kg | — | back feel not reported |
+| 2026-11-04 | Lower A | Hip thrust | 3x8–12 @ 40kg/side | — | |
+| 2026-11-04 | Lower A | Bulgarian split squat | 3x8/leg @ 10kg DBs | — | |
+| 2026-11-04 | Lower A | Lying leg curl | 3x10–12 @ 25–30kg (top set) | — | |
+| 2026-11-04 | Lower A | Side plank | — | — | couldn't hold it; regress |
+| 2026-11-04 | Lower A | Bird dog, farmer carry | — | — | not reported |
 | 2026-11-05 | — | rest | — | — | |
 | 2026-11-06 | Upper B | skipped | — | — | reason not given |
+| 2026-11-07 | Upper B | Assisted pull-up | 3x6–10 @ heaviest (black) band | — | very weak on pull-ups |
+| 2026-11-07 | Upper B | Flat DB press | 3x8–12, top set 30kg DBs | — | weight changed every set |
+| 2026-11-07 | Upper B | One-arm DB row | 3x8–12/side, top set 25kg | — | weight changed every set |
+| 2026-11-07 | Upper B | Cable lateral raise | 3x12–15 @ 15kg | — | heavy for this lift; check form / stack |
+| 2026-11-07 | Upper B | Face pull | 3x15 @ 30kg | — | |
+| 2026-11-07 | Upper B | McGill curl-up | 3x8 | — | done |
+| 2026-11-07 | Upper B | Wrist curl / reverse wrist curl | 2x15 | — | reverse: grip too weak for the straight bar |
+| 2026-11-07 | Upper B | Easy run | skipped | — | tired + mild headache; right call |

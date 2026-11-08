@@ -23,7 +23,7 @@
 Every session: **warm-up 10 min** (5 min bike + the mobility routine below) → lifts → cardio block → 5 min cool-down.
 
 ## Lifting
-Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps. When you reach the top of the rep range on every set, add the smallest weight step next time.
+Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps. Warm-up sets can ramp up, but the 3 working sets use **one weight**, so progress is easy to track. When you reach the top of the rep range on every set, add the smallest weight step next time.
 
 ### Lower A
 | Exercise | Sets x Reps | Notes |
@@ -33,7 +33,7 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 | Bulgarian split squat (dumbbells) | 3 x 8 / leg | Glute + balance |
 | Lying leg curl | 3 x 10–12 | |
 | Bird dog | 3 x 6 / side, 8 s holds | Core |
-| Side plank | 3 x 20–30 s / side | Core |
+| Side plank | 3 x 20–30 s / side | Core. If you can't hold it: from the knees, 3 x 10–15 s / side, add 5 s a week |
 | Farmer carry | 3 x 30–40 m | Grip + core; heavy |
 
 ### Upper A
@@ -65,10 +65,10 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 | Pull-up (assisted if needed) | 3 x 6–10 | |
 | Flat dumbbell press | 3 x 8–12 | |
 | One-arm dumbbell row | 3 x 8–12 / side | Hand on the bench |
-| Cable lateral raise | 3 x 12–15 | |
+| Cable lateral raise | 3 x 12–15 | Light. Lift with the shoulder, no body swing or shrug. If you can do 15 kg cleanly, the stack is probably labelled differently |
 | Face pull | 3 x 15 | |
 | McGill curl-up | 3 x 8, 8 s holds | Core |
-| Wrist curl + reverse wrist curl | 2 x 15 each | Forearms |
+| Wrist curl + reverse wrist curl | 2 x 15 each | Forearms. Do the reverse curl with light dumbbells (2–5 kg), not the straight bar |
 
 ## Bodyweight circuit (Lower B finisher)
 3 rounds (4 in weeks 3–4), 60 s rest between rounds:
@@ -129,5 +129,6 @@ Fat loss comes mostly from the diet. Training mainly decides whether what you lo
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-07: Side plank regression (couldn't hold it), one working weight per exercise, lateral raise + reverse wrist curl cues. From the 11-04 and 11-07 logs.
 - 2026-11-03: Lat pulldown: hold at 50 kg + form cues after lower-back tightness on that lift (no tightness on the run).
 - 2026-11-03: Dead hang progression added. Grip was the limiting factor in the first session.
