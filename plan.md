@@ -106,7 +106,7 @@ Fat loss comes mostly from the diet. Training mainly decides whether what you lo
 
 | Target | Amount | Confidence |
 |---|---|---|
-| Calories | ~2,400 kcal/day | Guess. Adjusted from your weight trend, not this formula |
+| Calories | ~2,300 kcal/day | Guess. Average of two formulas, adjusted from your weight trend |
 | Protein | 170–185 g/day | Likely. Main lever for keeping muscle |
 | Fibre | 30–38 g/day, raised over 2 weeks | Likely. Also for the constipation |
 | Water | 3 L+/day, more on run days | Likely |
@@ -125,10 +125,11 @@ Fat loss comes mostly from the diet. Training mainly decides whether what you lo
 
 ## Assumptions to confirm
 - The equipment is assumed to be a standard gym. Swap anything missing once the machine list arrives.
-- The calorie target is an estimate (Mifflin-St Jeor x ~1.55 activity, minus ~500).
+- The calorie target is an estimate: the average of Mifflin-St Jeor (~2,400) and the InBody BMR of 1,753 kcal x 1.55 (~2,200), minus ~500.
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-09: Calories 2,400 → ~2,300, using the InBody 2026-11-08 BMR (1,753 kcal) alongside the formula.
 - 2026-11-07: Side plank regression (couldn't hold it), one working weight per exercise, lateral raise + reverse wrist curl cues. From the 11-04 and 11-07 logs.
 - 2026-11-03: Lat pulldown: hold at 50 kg + form cues after lower-back tightness on that lift (no tightness on the run).
 - 2026-11-03: Dead hang progression added. Grip was the limiting factor in the first session.
