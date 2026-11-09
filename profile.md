@@ -29,6 +29,8 @@
 - Sample day (2026-11-08, training day): nothing until 13:30 (apple), skipped breakfast for a fasted weigh-in; 17:00 home-cooked fava beans; 2 homemade date biscuits; after gym: chicken breast + 2 whole-grain toast + ketchup + a little mayo. Est. ~1,300–1,600 kcal, ~70–90 g protein.
 - Night before (2026-11-07): kebab with rice + apple pie with ice cream (restaurant). Est. ~1,500–2,000 kcal for that meal.
 - Pattern: heavy meal, then skip meals the next day to compensate.
+- Drinks: 1 V60 coffee in the morning + 1–2 espresso shots at work (black, assumed). Water ~2 L/day (not counted). 1 diet soft drink with lunch/dinner (diet 7UP, Pepsi or Mountain Dew).
+- Sweets: loves sweets; keeps it to one small sweet a day.
 - Sleep (avg hours):
 
 ## Preferences
