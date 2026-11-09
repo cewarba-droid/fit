@@ -25,6 +25,7 @@
 - Equipment / location **(required)**: gym with machines + cardio (equipment list pending — video didn't come through). Runs outdoors near home (walkway, not a purpose-built track) and on treadmill, either on any day.
 - Diet constraints: halal; no allergies; no current diet; not tracking calories. Occasional constipation.
 - Daily schedule: wake 07:00, work 08:00–17:00, gym in the evening after the 17:00 meal.
+- Food at work: can bring food from home; kitchen/food facilities available at work (second floor). Exact setup (fridge, microwave, cafeteria) to confirm.
 - Sample day (2026-11-08, training day): nothing until 13:30 (apple), skipped breakfast for a fasted weigh-in; 17:00 home-cooked fava beans; 2 homemade date biscuits; after gym: chicken breast + 2 whole-grain toast + ketchup + a little mayo. Est. ~1,300–1,600 kcal, ~70–90 g protein.
 - Night before (2026-11-07): kebab with rice + apple pie with ice cream (restaurant). Est. ~1,500–2,000 kcal for that meal.
 - Pattern: heavy meal, then skip meals the next day to compensate.
