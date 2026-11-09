@@ -31,6 +31,7 @@
 - Pattern: heavy meal, then skip meals the next day to compensate.
 - Drinks: 1 V60 coffee in the morning + 1–2 espresso shots at work (black, assumed). Water ~2 L/day (not counted). 1 diet soft drink with lunch/dinner (diet 7UP, Pepsi or Mountain Dew).
 - Sweets: loves sweets; keeps it to one small sweet a day.
+- Protein foods: mostly chicken breast; also eats eggs, beef, canned tuna, Greek yogurt/labneh, cheese, lentils/fava beans. No time to cook fish. Whey: OK.
 - Sleep (avg hours):
 
 ## Preferences

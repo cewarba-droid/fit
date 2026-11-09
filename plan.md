@@ -102,18 +102,7 @@ Treadmill or outside both count. Log every run in `logs/workouts.md`, including 
 Skip any aggressive hamstring stretching while leg symptoms are possible.
 
 ## Nutrition
-Fat loss comes mostly from the diet. Training mainly decides whether what you lose is fat or muscle.
-
-| Target | Amount | Confidence |
-|---|---|---|
-| Calories | ~2,300 kcal/day | Guess. Average of two formulas, adjusted from your weight trend |
-| Protein | 170–185 g/day | Likely. Main lever for keeping muscle |
-| Fibre | 30–38 g/day, raised over 2 weeks | Likely. Also for the constipation |
-| Water | 3 L+/day, more on run days | Likely |
-
-**Minimum tracking:** log everything you eat in an app for 2–4 weeks to learn your portions, then move to protein only + weigh-ins.
-
-**Constipation:** raise fibre gradually (veg, fruit, oats, lentils/beans, 2 kiwis or a few prunes a day), drink more water as fibre rises, and keep the daily walks. See a doctor if you see blood, have severe pain, lose weight without explanation, or your bowel habits change and don't go back to normal.
+See `diet.md`: targets, meal options, plate rule, and constipation steps.
 
 ## Weekly check
 - Weigh 3 mornings a week (after the toilet, before eating) and put the average in `logs/body.md`.
@@ -129,6 +118,7 @@ Fat loss comes mostly from the diet. Training mainly decides whether what you lo
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-09: Nutrition moved to `diet.md`.
 - 2026-11-09: Calories 2,400 → ~2,300, using the InBody 2026-11-08 BMR (1,753 kcal) alongside the formula.
 - 2026-11-07: Side plank regression (couldn't hold it), one working weight per exercise, lateral raise + reverse wrist curl cues. From the 11-04 and 11-07 logs.
 - 2026-11-03: Lat pulldown: hold at 50 kg + form cues after lower-back tightness on that lift (no tightness on the run).

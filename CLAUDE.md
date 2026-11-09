@@ -16,9 +16,11 @@ Advisor, not assistant. Accuracy over agreement.
 | File | What it holds | Who updates it |
 |---|---|---|
 | `profile.md` | Goals, current stats, constraints, equipment, schedule | User (Claude asks when fields are empty) |
-| `plan.md` | Current training + nutrition plan | Claude, only from `profile.md` + logs |
+| `plan.md` | Current training plan | Claude, only from `profile.md` + logs |
+| `diet.md` | Current diet plan | Claude, only from `profile.md` + logs |
 | `logs/workouts.md` | One row per session | User (or Claude from user's report) |
 | `logs/body.md` | Weekly body metrics | User |
+| `logs/inbody.md` | InBody scans (photos in `logs/scans/`) | User |
 
 ## Rules
 1. No plan is written while required fields in `profile.md` are empty — ask first.
