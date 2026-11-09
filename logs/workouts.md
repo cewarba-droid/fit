@@ -28,3 +28,12 @@
 | 2026-11-07 | Upper B | McGill curl-up | 3x8 | — | done |
 | 2026-11-07 | Upper B | Wrist curl / reverse wrist curl | 2x15 | — | reverse: grip too weak for the straight bar |
 | 2026-11-07 | Upper B | Easy run | skipped | — | tired + mild headache; right call |
+| 2026-11-08 | Lower B | Goblet squat to box | 3x10 @ 20kg | — | |
+| 2026-11-08 | Lower B | Single-leg glute bridge | 3x12/leg @ bodyweight | — | |
+| 2026-11-08 | Lower B | Cable pull-through | 3x12, top set ~35kg | — | weight changed every set |
+| 2026-11-08 | Lower B | Step-up | 3x10/leg @ 10kg DBs | — | |
+| 2026-11-08 | Lower B | Leg press (quad focus) | 2x15 @ 90kg | — | in place of leg extension (machine broken) |
+| 2026-11-08 | Lower B | Standing calf raise | 3x12–15 @ 40kg | — | |
+| 2026-11-08 | Lower B | Dead bug | 3x8/side | — | |
+| 2026-11-08 | Lower B | Suitcase carry | 2x30m/side @ 35kg | — | heavy; only 2 of 3 sets |
+| 2026-11-08 | Lower B | Bodyweight circuit | — | — | not reported. No headache. Back feel not reported |
