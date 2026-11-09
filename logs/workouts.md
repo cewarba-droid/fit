@@ -12,7 +12,7 @@
 | 2026-11-03 | Upper A | Pallof press | 3x10/side @ 20kg | — | |
 | 2026-11-03 | Upper A | Dead hang | 3x max | — | grip limits it; time not recorded |
 | 2026-11-03 | Upper A | Treadmill run | 20:15, 2.50 km, 7.4 km/h, 0% incline | — | ~8:06 min/km; no back tightness or pressure |
-| 2026-11-04 | Lower A | Leg press | 3x8–12 @ ~150–170kg | — | back feel not reported |
+| 2026-11-04 | Lower A | Leg press | 3x8–12 @ ~150–170kg | — | back fine |
 | 2026-11-04 | Lower A | Hip thrust | 3x8–12 @ 40kg/side | — | |
 | 2026-11-04 | Lower A | Bulgarian split squat | 3x8/leg @ 10kg DBs | — | |
 | 2026-11-04 | Lower A | Lying leg curl | 3x10–12 @ 25–30kg (top set) | — | |
@@ -36,4 +36,4 @@
 | 2026-11-08 | Lower B | Standing calf raise | 3x12–15 @ 40kg | — | |
 | 2026-11-08 | Lower B | Dead bug | 3x8/side | — | |
 | 2026-11-08 | Lower B | Suitcase carry | 2x30m/side @ 35kg | — | heavy; only 2 of 3 sets |
-| 2026-11-08 | Lower B | Bodyweight circuit | — | — | not reported. No headache. Back feel not reported |
+| 2026-11-08 | Lower B | Bodyweight circuit | — | — | not reported. No headache. Back fine |
