@@ -14,7 +14,9 @@
 - Sex **(required)**: male
 - Height **(required)**: 176 cm
 - Weight **(required)**: 92.5 kg (2026-10-27)
-- Waist (at navel):
+- Waist (at navel): not measured yet
+- Wrist: 17 cm
+- Home scale: none yet (needed for the weekly check)
 - Current activity level **(required)**: active (inferred: 4 sessions x ~120 min/week; daily job activity unknown)
 - Training history: 4 years weightlifting. 2-month break, back for the last ~1.5 months on a body-part ("bro") split + running 2x/week — inconsistent in both. Running: loves it, inconsistent; wants to get serious about it.
 

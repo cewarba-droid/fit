@@ -62,7 +62,7 @@ One restaurant meal a week fits. On that day, keep breakfast and lunch protein-h
 - Keep in stock: canned tuna, Greek yogurt, whey, oats, wholegrain bread/wraps, fruit, salad vegetables.
 
 ## Tracking
-- Weeks 1–2: log everything in a food app to learn your portions.
+- Weeks 1–2: log everything in a food app to learn your portions. App: MyFitnessPal (or FatSecret). Set 2,300 kcal and 175 g protein.
 - After that: track protein only and weigh in at 07:00 three times a week.
 - **Adjust only after 2 full weeks of weigh-ins** (rules in `plan.md`).
 
