@@ -8,15 +8,19 @@
 - Numbness in the groin area or any bladder/bowel control change → doctor the same day.
 - Lower-back tightness that is still there the next morning → swap that day's runs/jumps for the bike, and note it in the log.
 
-## Week layout
+## Week layout (work week Sun–Thu, gym after the 17:00 meal, ~18:30)
 | Day | Session | Cardio block | Approx. time |
 |---|---|---|---|
-| 1 | Lower A | Easy bike or incline walk 20–30 min | 100–120 |
-| 2 | Upper A | Easy run (table below) | 100–120 |
-| — | Rest | Optional walk | — |
-| 3 | Lower B (glute focus) | Bodyweight circuit 10–12 min | 90–110 |
-| 4 | Upper B | Easy run (table below) | 100–120 |
-| — | Optional | Easy outdoor run, from week 2 | 20–30 |
+| Sun | Lower A | Easy bike or incline walk 20–30 min | 100–120 |
+| Mon | Upper A | Easy run (table below) | 100–120 |
+| Tue | Off the gym | 30–45 min walk | — |
+| Wed | Lower B (glute focus) | Bodyweight circuit 10–12 min | 90–110 |
+| Thu | Upper B | Easy run (table below) | 100–120 |
+| Fri | Full rest | Walk if you feel like it | — |
+| Sat | Outdoor easy run (the "optional run" column) + mobility routine | — | 30–45 |
+
+**Daily steps:** 8,000–10,000. This is the lever for faster fat loss, not eating less.
+**Transition week (Nov 10–14):** Tue Upper A + run, Wed Lower A, Thu Upper B + run, Sat easy run 20 min. The fixed layout starts Sun Nov 15, with running week 2.
 
 **Bad-day minimum (~60 min):** warm-up + the first 3 lifts + core. A short session still counts as a done session.
 
@@ -81,12 +85,12 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 
 ## Running
 **Easy pace** means you can speak in full sentences. If you can't, slow down or walk for 1 min. No intervals and no races this block.
-| Week | Day 2 run | Day 4 run | Optional run |
+| Week | Mon run | Thu run | Sat run |
 |---|---|---|---|
-| 1 | 20 min | 20 min | — |
+| 1 | 20 min | 20 min | 20 min |
 | 2 | 22 min | 25 min | 20 min |
 | 3 | 25 min | 30 min | 20 min |
-| 4 (lighter week) | 20 min | 20 min | — |
+| 4 (lighter week) | 20 min | 20 min | 20 min |
 
 Treadmill or outside both count. Log every run in `logs/workouts.md`, including how the back felt afterwards.
 
@@ -118,6 +122,7 @@ See `diet.md`: targets, meal options, plate rule, and constipation steps.
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-10: Fixed weekly layout (work week Sun–Thu, gym Sun/Mon/Wed/Thu, Sat run, steps target). Calories unchanged: no 2-week weight trend yet.
 - 2026-11-09: Nutrition moved to `diet.md`.
 - 2026-11-09: Calories 2,400 → ~2,300, using the InBody 2026-11-08 BMR (1,753 kcal) alongside the formula.
 - 2026-11-07: Side plank regression (couldn't hold it), one working weight per exercise, lateral raise + reverse wrist curl cues. From the 11-04 and 11-07 logs.

@@ -6,7 +6,7 @@
 - Primary goal **(required)**: lose fat + build muscle + running fitness, with mobility/flexibility work. Running is a constant focus.
 - Priority when goals conflict **(required)**: 1) fat loss (esp. belly) 2) running + cardio + flexibility 3) muscle — maintain, not build
 - Known weak points: glutes, core (weakest), forearms/grip
-- Target + deadline: <!-- e.g. -8 kg by March 2027 -->
+- Target + deadline: first target ~86 kg (proposed 2026-11-09). Wants faster loss (2026-11-10).
 - Why it matters:
 
 ## Current state
@@ -20,7 +20,7 @@
 
 ## Constraints
 - Injuries / medical conditions **(required — write "none" if none)**: recurring lower back pain, flares weekly to monthly with no clear trigger; sometimes radiates down the LEFT leg; lower-back tension after running. Cupping gives temporary relief. Not yet assessed by a professional (assessment not likely within the next month). Symptom-free as of 2026-10-30: no pain, numbness or weakness. **Leg radiation = get assessed before heavy loading or running progression.**
-- Days per week available **(required)**: 4
+- Days per week available **(required)**: 4 gym days inside the work week (Sun–Thu), gym after the 17:00 meal. Fri/Sat off work: open to a run or bodyweight cardio.
 - Minutes per session **(required)**: up to 120 stated; plan core sessions at ~75 min, extras optional
 - Equipment / location **(required)**: gym with machines + cardio (equipment list pending — video didn't come through). Runs outdoors near home (walkway, not a purpose-built track) and on treadmill, either on any day.
 - Diet constraints: halal; no allergies; no current diet; not tracking calories. Occasional constipation.
