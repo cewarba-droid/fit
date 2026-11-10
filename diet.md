@@ -15,6 +15,25 @@
 
 Black coffee and diet soft drinks are free. Ketchup, light mayo and sauces: about 1 tablespoon per meal.
 
+## Default day — enter this into MyFitnessPal
+Weigh food **cooked**, on a kitchen scale. Save the breakfast, lunch and after-gym rows as "Meals" in the app, so logging is one tap. Only the 17:00 meal changes each day.
+
+| Meal | Items to log | ~kcal | ~Protein |
+|---|---|---|---|
+| Breakfast 07:00 | 3 whole eggs · 1 slice wholegrain toast (35 g) · 170 g plain low-fat Greek yogurt | 415 | 40 g |
+| Lunch 12:30 | 150 g cooked chicken breast · 150 g cooked basmati rice · 150 g salad · 5 g olive oil | 520 | 50 g |
+| Home meal 17:00 | Log the real dish. Typical: 150 g cooked meat/chicken · 150 g cooked rice · 200 g vegetables · ~10 g cooking oil | 630 | 40 g |
+| Sweet | 1–2 date biscuits or 20–30 g chocolate, right after the 17:00 meal | 150 | — |
+| After gym ~21:00 | 150 g cooked chicken breast · 2 slices wholegrain toast · salad · 15 g ketchup · 10 g light mayo | 480 | 54 g |
+| **Total** | | **~2,200** | **~185 g** |
+
+Short on protein at night? Add 1 scoop of whey (~120 kcal, 24 g). The other options below are swaps for these rows.
+
+## Carb rules
+- Carbs: wholegrain bread, oats, basmati rice, legumes. Always eaten with protein and vegetables, never alone.
+- The sweet stays small and comes right after a meal. No sweets or juice on an empty stomach. Diet soft drinks are fine.
+- Walk 10–15 min after the lunch at work.
+
 ## Breakfast (07:00) — pick one
 | Option | What | Est. kcal / protein |
 |---|---|---|
@@ -67,4 +86,5 @@ One restaurant meal a week fits. On that day, keep breakfast and lunch protein-h
 - **Adjust only after 2 full weeks of weigh-ins** (rules in `plan.md`).
 
 ## Changelog
+- 2026-11-10: Added default day for MyFitnessPal and carb rules.
 - 2026-11-09: Created from the profile (schedule, sample day, drinks, protein foods).

@@ -19,6 +19,7 @@
 | Fri | Full rest | Walk if you feel like it | — |
 | Sat | Outdoor easy run (the "optional run" column) + mobility routine | — | 30–45 |
 
+**After lunch at work:** 10–15 min walk.
 **Daily steps:** 8,000–10,000. This is the lever for faster fat loss, not eating less.
 **Transition week (Nov 10–14):** Tue Upper A + run, Wed Lower A, Thu Upper B + run, Sat easy run 20 min. The fixed layout starts Sun Nov 15, with running week 2.
 
@@ -122,6 +123,7 @@ See `diet.md`: targets, meal options, plate rule, and constipation steps.
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
+- 2026-11-10: Added a 10–15 min walk after lunch.
 - 2026-11-10: Fixed weekly layout (work week Sun–Thu, gym Sun/Mon/Wed/Thu, Sat run, steps target). Calories unchanged: no 2-week weight trend yet.
 - 2026-11-09: Nutrition moved to `diet.md`.
 - 2026-11-09: Calories 2,400 → ~2,300, using the InBody 2026-11-08 BMR (1,753 kcal) alongside the formula.
