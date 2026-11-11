@@ -37,3 +37,11 @@
 | 2026-11-08 | Lower B | Dead bug | 3x8/side | — | |
 | 2026-11-08 | Lower B | Suitcase carry | 2x30m/side @ 35kg | — | heavy; only 2 of 3 sets |
 | 2026-11-08 | Lower B | Bodyweight circuit | — | — | not reported. No headache. Back fine |
+| 2026-11-10 | Upper A | Lat pulldown | 3x8–12, last set ~52.5kg? | — | load unclear in report; back feel not reported |
+| 2026-11-10 | Upper A | Incline DB press | 3x8–12 @ 25kg, 27.5kg at the end | — | |
+| 2026-11-10 | Upper A | Chest-supported row | 3x8–12 @ ~60kg | — | plates unlabelled, estimate |
+| 2026-11-10 | Upper A | Seated DB shoulder press | 3x8–12 @ 22.5kg | — | |
+| 2026-11-10 | Upper A | Cable curl / triceps pushdown | 2x10–15 @ 45kg / 50kg | — | up from 30 / 40 |
+| 2026-11-10 | Upper A | Pallof press | 3x10/side @ 20kg | — | |
+| 2026-11-10 | Upper A | Dead hang | 3 x 10–15 s | — | |
+| 2026-11-10 | Upper A | Easy run | not reported | — | no morning weigh-in or waist yet; diet mostly followed |
