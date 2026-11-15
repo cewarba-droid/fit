@@ -45,3 +45,6 @@
 | 2026-11-10 | Upper A | Pallof press | 3x10/side @ 20kg | — | |
 | 2026-11-10 | Upper A | Dead hang | 3 x 10–15 s | — | |
 | 2026-11-10 | Upper A | Easy run | not reported | — | no morning weigh-in or waist yet; diet mostly followed |
+| 2026-11-11 | Lower A | full session | weights not reported | — | |
+| 2026-11-12 | Upper B | skipped | — | — | gym membership expired |
+| 2026-11-14 | Easy run | skipped | — | — | |
