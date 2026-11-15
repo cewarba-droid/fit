@@ -11,7 +11,7 @@
 ## Week layout (work week Sun–Thu, gym after the 17:00 meal, ~18:30)
 | Day | Session | Cardio block | Approx. time |
 |---|---|---|---|
-| Sun | Lower A | Easy spin bike or elliptical 20–30 min | 100–120 |
+| Sun | Lower A | Easy bike or incline walk 20–30 min | 100–120 |
 | Mon | Upper A | Easy run (table below) | 100–120 |
 | Tue | Off the gym | 30–45 min walk | — |
 | Wed | Lower B (glute focus) | Bodyweight circuit 10–12 min | 90–110 |
@@ -33,10 +33,10 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 ### Lower A
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Goblet squat, heels on a 2.5–5 kg plate | 3 x 8–12 | Replaces the leg press (company gym). Heaviest dumbbell you can hold with good form |
-| Hip thrust (Smith machine or barbell, back on the bench) | 3 x 8–12 | Pause 1 s at the top. Pad the bar |
+| Leg press | 3 x 8–12 | Don't let your lower back roll off the pad at the bottom |
+| Hip thrust (machine or barbell) | 3 x 8–12 | Pause 1 s at the top |
 | Bulgarian split squat (dumbbells) | 3 x 8 / leg | Glute + balance |
-| Seated leg curl (Life Fitness machine) | 3 x 10–12 | No load on the lower back |
+| Lying leg curl | 3 x 10–12 | |
 | Bird dog | 3 x 6 / side, 8 s holds | Core |
 | Side plank | 3 x 20–30 s / side | Core. If you can't hold it: from the knees, 3 x 10–15 s / side, add 5 s a week |
 | Farmer carry | 3 x 30–40 m | Grip + core; heavy |
@@ -44,22 +44,22 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 ### Upper A
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Kneeling cable pulldown (high pulley, bar or single arm) | 3 x 8–12 | Replaces the lat pulldown machine. Kneeling keeps the lower back neutral. Ribs down |
+| Lat pulldown | 3 x 8–12 | Thigh pad snug, lean back only ~10–15°, ribs down, no lower-back arch. If tight: half-kneeling single-arm cable pulldown |
 | Incline dumbbell press | 3 x 8–12 | |
-| Chest-supported dumbbell row (chest on an incline bench) | 3 x 8–12 | No load on the lower back |
+| Chest-supported row | 3 x 8–12 | Chest on the pad means no load on the lower back |
 | Seated dumbbell shoulder press (back supported) | 3 x 8–12 | |
 | Cable curl + triceps pushdown | 2 x 10–15 each | Superset |
 | Pallof press | 3 x 10 / side | Core: resist the twist |
-| Dead hang (pull-up bar on the cable station) | 3 x as long as possible | Grip. Time each hang. Under 20 s: do 10–15 s hangs until you reach 45–60 s total. No bar: heavy dumbbell hold, 3 x 30 s. No straps |
+| Dead hang | 3 x as long as possible | Grip. Time each hang. Under 20 s: do 10–15 s hangs until you reach 45–60 s total. No straps |
 
 ### Lower B (glute focus)
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Dumbbell reverse lunge | 3 x 8 / leg | Controlled; step back, front knee over the foot |
+| Goblet squat to a box/bench | 3 x 10 | Controlled |
 | Single-leg glute bridge | 3 x 12 / leg | |
 | Cable pull-through | 3 x 12 | Light; the hinge comes from the hips |
 | Step-up (dumbbells) | 3 x 10 / leg | |
-| Leg extension, if the leg curl machine converts; otherwise heels-elevated goblet squat (light) | 2 x 12–15 | Quad focus, slow |
+| Leg extension | 2 x 12–15 | |
 | Standing calf raise | 3 x 12–15 | Protects the shins when running |
 | Dead bug | 3 x 8 / side | Core |
 | Suitcase carry | 3 x 30 m / side | Grip + core |
@@ -67,7 +67,7 @@ Effort for every set: **RPE 7–8**, meaning you could still do 2–3 more reps.
 ### Upper B
 | Exercise | Sets x Reps | Notes |
 |---|---|---|
-| Pull-up (band-assisted, bar on the cable station) | 3 x 6–10 | |
+| Pull-up (assisted if needed) | 3 x 6–10 | |
 | Flat dumbbell press | 3 x 8–12 | |
 | One-arm dumbbell row | 3 x 8–12 / side | Hand on the bench |
 | Cable lateral raise | 3 x 12–15 | Light. Lift with the shoulder, no body swing or shrug. If you can do 15 kg cleanly, the stack is probably labelled differently |
@@ -123,9 +123,6 @@ See `diet.md`: targets, meal options, plate rule, and constipation steps.
 
 ## Changelog
 - 2026-10-30: Block 1 created from the completed profile.
-- 2026-11-15: More photos: seated leg curl machine found → back in Lower A (Romanian deadlift removed). Pull-up bar on the cable station. Cable stack labels differ from the old gym: find new cable weights from scratch.
-- 2026-11-15: Gym photos: cable leg curl replaces the floor leg curl as the RDL fallback; cardio = treadmill, spin bike, elliptical (rower and air bike held back for now).
-- 2026-11-15: Moved to the company gym (dumbbells, bench, barbells, Smith machine, cables). Swaps: leg press → heels-elevated goblet squat; leg curl → DB Romanian deadlift; lat pulldown → kneeling cable pulldown; chest-supported row → incline-bench DB row; Lower B goblet squat → DB reverse lunge; leg extension → light heels-elevated goblet squat. Starting weights reset.
 - 2026-11-10: Added a 10–15 min walk after lunch.
 - 2026-11-10: Fixed weekly layout (work week Sun–Thu, gym Sun/Mon/Wed/Thu, Sat run, steps target). Calories unchanged: no 2-week weight trend yet.
 - 2026-11-09: Nutrition moved to `diet.md`.
